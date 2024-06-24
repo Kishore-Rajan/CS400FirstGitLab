@@ -1,5 +1,6 @@
 /*
  *	Color class
+ *	Name: Kishore Rajan, email: krajan3@wisc.edu, cs account username: kishore
  */
 public class Color{
 	private String color;

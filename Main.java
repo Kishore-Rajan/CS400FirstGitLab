@@ -1,5 +1,6 @@
 /*
  * Test the use of the Color method
+ * Name: Kishore Rajan, email: krajan3@wisc.edu, cs account username:kishore
  */
 import java.util.*;
 
